@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node pdf.js"
   },
   "author": "chuongtrh",
   "license": "MIT",
   "dependencies": {
     "handlebars": "^4.0.12",
-    "puppeteer": "^1.8.0"
+    "puppeteer": "^11.0.0"
   }
 }
